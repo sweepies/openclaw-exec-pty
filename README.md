@@ -28,7 +28,7 @@ Use `exec_pty` instead of regular `exec` when:
 
 ```bash
 # Clone or download this repository
-git clone https://github.com/YOUR_USERNAME/openclaw-exec-pty.git
+git clone https://github.com/sweepies/openclaw-exec-pty.git
 
 # Install via OpenClaw
 openclaw plugins install ./openclaw-exec-pty
