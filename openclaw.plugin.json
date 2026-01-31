@@ -1,0 +1,11 @@
+{
+  "id": "openclaw-exec-pty",
+  "name": "Exec PTY",
+  "description": "PTY-based shell execution plugin for OpenClaw - runs commands in interactive shells for proper environment initialization",
+  "version": "1.0.0",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}
